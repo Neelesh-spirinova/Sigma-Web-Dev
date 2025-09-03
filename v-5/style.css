@@ -1,0 +1,16 @@
+td{
+      border: 1px solid black
+      
+}
+
+th{
+      border: 3px solid black
+}
+body{
+      background-color: antiquewhite;
+}
+caption{
+      font-size: x-large;
+      margin-top: 4px;
+      margin-bottom: 2px;
+}
